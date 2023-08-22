@@ -3,4 +3,4 @@ The webhooks with Chat attached to the name were specifically created to display
 
 I included the package.json file that is needed to deploy the webhooks.
 
-Any questions, feel free to ping me :smiley:!
+Any questions, feel free to ping me :smile:!
