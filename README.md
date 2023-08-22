@@ -1,1 +1,2 @@
 # ccai-webhook-examples
+The webhooks with Chat attached to the name were specifically created to display custom payloads in a chat version of the bot. The other webhooks were modified for voice only versions of the bot.
